@@ -1,0 +1,2 @@
+setCssToHead(["body{ background: #fff; }\n.",[1],"listnav{ margin: 0 auto; width: 88%; height: ",[0,120],"; border: #e6e6e6 solid ",[0,0.5],"; line-height: ",[0,120],"; border-left:none; border-right:none; padding: ",[0,20],"; }\n",],undefined,{path:"./pages/bottom-nav/shopping.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/bottom-nav/shopping.wxml') } }));

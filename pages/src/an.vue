@@ -1,0 +1,43 @@
+<template>
+	<view>
+		<view class="title">关于CMP平台推荐奖励机制的公告：</view>
+		<view style="padding: 20upx;">
+			<view class="nav">为了鼓励并为平台引流，好友通过你的邀请码注册并成功参与众筹，你可获得相关佣金。相关名字解释如下：</view>
+			<view class="nav">I. 直接推荐：用户的直接下级。</view>
+			<view class="nav">II. 间接推荐：用户的间接下级。 </view>
+			<view class="nav">III. 直接推荐收益比例：3%。</view>
+			<view class="nav">IV. 间接推荐收益比例：0.3%（最大值为3%）。</view>
+			<view class="nav">V.用户产生直接/间接推荐收益后，平台收取收益额的4%作为管理费。</view>
+			<view class="nav">VI. 用户可以获得的直接/间接推荐收益在每期众筹成功或失败后统一结算。</view>
+		</view>
+		<view style="float: right;">
+			<view class="navs">CMP运营团队</view>
+			<view class="navs">2019年7月23日</view>
+		</view>
+	</view>
+</template>
+
+<script>
+</script>
+
+<style>
+	.title{
+		width: 80%;
+		color: #687c99;
+		font-weight: 600;
+		font-size: 32upx;
+		margin: 0 auto;
+		text-align: center;
+		margin-top: 40upx;
+	}
+	.nav{
+		color: #687c99;
+		font-size: 28upx;
+		margin: 10upx 0;
+	}
+	.navs{
+		color: #687c99;
+		font-size: 28upx;
+		margin: 5upx 20upx;
+	}
+</style>

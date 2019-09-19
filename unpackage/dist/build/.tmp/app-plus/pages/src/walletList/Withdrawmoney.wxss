@@ -1,0 +1,48 @@
+
+.cont{
+	padding: 20rpx;
+}
+.box{
+	width: 46%;
+	height: 200rpx;
+	margin-top: 90rpx;
+}
+.num{
+	width: 90%;
+	height: 100%;
+	margin: 0 auto;
+	color: #349cfe;
+	text-align: center;
+	font-size: 48rpx;
+	margin-top: 20rpx;
+}
+text{
+	color: #fff;
+	font-size: 32rpx;
+	margin-left: 40rpx;
+}
+.list{
+	background: #070c20;
+	height: 80rpx;
+	color: #fff;
+	line-height: 80rpx;
+	font-size: 28rpx;
+}
+.landing{ 
+	height: 84rpx;
+	width: 80%;
+	line-height: 84rpx;
+	border-radius: 10rpx;
+	font-size: 32rpx;
+	background: -webkit-gradient(linear,left top, right top,from(#4286de), to(#5091e6));
+	background: -o-linear-gradient(left,#4286de, #5091e6);
+	background: linear-gradient(left,#4286de, #5091e6);
+	margin-top: 40rpx;
+}
+input{
+	float: right;
+	width: 60%;
+	height: 100%;
+	margin-right: 80rpx;
+}
+

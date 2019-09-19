@@ -1,0 +1,15 @@
+
+page{
+	background: #fff;
+}
+.listnav{
+	margin: 0 auto;
+	width: 88%;
+	height: 120rpx;
+	border: #e6e6e6 solid 0.5rpx;
+	line-height: 120rpx;
+	border-left:none;
+	border-right:none;
+	padding: 20rpx;
+}
+

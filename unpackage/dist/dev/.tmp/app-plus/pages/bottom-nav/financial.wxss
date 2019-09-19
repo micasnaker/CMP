@@ -1,0 +1,65 @@
+
+.textnav{
+	color: white;
+	font-size: 32rpx;
+	text-align: center;
+}
+.textnav1{
+	color: #349cfe; 
+	font-size: 28rpx;
+	text-align: center;
+}
+.box{
+	height: 60rpx;
+	width: 20%;
+	background: #091629;
+	color: #349cfe;
+	font-size: 24rpx;
+	text-align: center;
+	border-radius: 50rpx;
+	line-height: 60rpx;
+	margin: 20rpx;
+}
+.listbox{
+	width: 25%;
+	height: 60rpx;
+	background: #091629;
+	color: #fff;
+	text-align: center;
+	line-height: 60rpx;
+	font-size: 24rpx;
+}
+.active{
+	border: #349cfe 1rpx solid;
+	color: #349cfe;
+}
+.btn{
+	height: 80rpx;
+	width: 50%;
+	border-radius: 40rpx;
+	background: -webkit-gradient(linear,left top, right top,from(#4286de), to(#5091e6));
+	background: -o-linear-gradient(left,#4286de, #5091e6);
+	background: linear-gradient(left,#4286de, #5091e6);
+	margin: 0 auto;
+	margin-top: 60rpx;
+	color: white;
+	line-height: 80rpx;
+}
+.tex{
+	margin: 0 auto;
+	width: 500rpx;
+	text-align: center;
+	font-size: 48rpx;
+	color: #349cfe;
+}
+.textadd{
+	height: 80rpx;
+	width: 60%;
+	border-radius: 40rpx;
+	background: #091629;
+	margin: 0 auto;
+	color: white;
+	text-align: center;
+	line-height: 80rpx;
+}
+
